@@ -28,7 +28,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-The WikiMarvel is a five days project proposed by a esnterprise of technologi to challange the candidates skills.
+The WikiMarvel is a five days project proposed by a esnterprise of technology to challange candidates's skills.
 
 ## 🖌 More images of the project
 - First initialization
